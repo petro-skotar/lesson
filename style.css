@@ -1,0 +1,32 @@
+.title{
+    font-size: 40px; 
+    font-weight: bold; 
+    color: #1d1aab; 
+    border: 3px dotted #e95f5f;
+    background: #ffd1d1;
+    width: 80%;            
+    margin: 0 auto;
+    padding: 20px 10px;
+    text-align: center;
+    transition: 0.5s;
+}
+.title:hover{
+    background: #482525;
+    color: #fff;
+}
+.bg_red{
+    color: red;
+}
+.bg_green{
+    color: green;
+}
+.bg_blue{
+    color: blue;
+}
+.menu{
+    display: flex;
+    gap: 15px;
+    border: 3px dotted #482525;
+    padding: 40px 10px;
+    background: #6e3726;
+}
